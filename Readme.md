@@ -1,7 +1,6 @@
 
 
-
-   	 		  	# Parallel Matrix Multiplication in Go
+# Parallel Matrix Multiplication in Go
 
 This project implements both sequential and parallel matrix multiplication algorithms in Go, demonstrating the performance benefits of concurrent processing.
 
